@@ -1,2 +1,4 @@
 # Modelos-Predictivos-Precipitacion
-The purpose of this research is to compare a hybrid model and a neural network for precipitation prediction in Junín.
+
+Este trabajo aborda el problema de la predicción de precipitaciones en la región de Junín, la cual radica en la alta proporción de registros sin lluvia que introduce un sesgo significativo en modelos tradicionales de predicción. El objetivo general fue desarrollar y evaluar dos enfoques alternativos: un modelo híbrido que combina clasificación binaria para determinar la ocurrencia de lluvia y regresión para estimar su cantidad; y un modelo de clasificación multiclase entrenado con técnicas de balanceo para predecir directamente niveles discretos de precipitación. Aunque el modelo híbrido permite una estimación más detallada del volumen de lluvia, los resultados muestran que el modelo multiclase balanceado obtuvo mejor rendimiento general, especialmente en la detección de eventos de lluvia significativa.
+
